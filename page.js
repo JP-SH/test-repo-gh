@@ -4,3 +4,4 @@ console.log(age); // 25
 
 
 let firstName = "Jasdeep"
+let lastName = "Singh"
