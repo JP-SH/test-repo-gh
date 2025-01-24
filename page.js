@@ -8,3 +8,5 @@ let lastName = "Singh"
 let fullName = firstName + " " + lastName;
 
 console.log(fullName); // Jasdeep Singh
+
+age--;
