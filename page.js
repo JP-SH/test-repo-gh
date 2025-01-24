@@ -10,3 +10,4 @@ let fullName = firstName + " " + lastName;
 console.log(fullName); // Jasdeep Singh
 
 age--;
+let fullName = firstName + " " + lastName + age;
